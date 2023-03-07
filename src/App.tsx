@@ -18,6 +18,7 @@ function App() {
         id: "927368df401f454589bdb34d34e170b5"
       }
     });
+
     const view = new MapView({
       container: "viewDiv",
       map
