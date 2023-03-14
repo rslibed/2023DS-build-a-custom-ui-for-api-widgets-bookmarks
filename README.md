@@ -13,7 +13,7 @@ Presenters: Jonathan Uihlein, Tristan Morrison, Ryan Libed, Esri
 ## Steps to run web app locally, in terminal, run:
 
 1. `git clone https://github.com/rslibed/2023DS-build-a-custom-ui-for-api-widgets-bookmarks.git`
-2. `cd build-a-custom-ui-for-api-widgets`
+2. `cd 2023DS-build-a-custom-ui-for-api-widgets-bookmarks`
 3. `yarn install`
 4. `yarn start`
 
