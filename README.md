@@ -10,4 +10,11 @@ Presenters: Jonathan Uihlein, Tristan Morrison, Ryan Libed, Esri
 
 ## To be presented at [Esri Developer Summit 2023](http://www.esri.com/events/devsummit).
 
+## Steps to run web app locally, in terminal, run:
 
+1. `git clone https://github.com/rslibed/2023DS-build-a-custom-ui-for-api-widgets-bookmarks.git`
+2. `cd build-a-custom-ui-for-api-widgets`
+3. `yarn install`
+4. `yarn start`
+
+Browser will automatically open at `http://localhost:3000`.
