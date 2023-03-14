@@ -1,11 +1,11 @@
-import View from "./Components/View/View";
+import { useEffect, useState } from "react";
+
 import Header from "./Components/Header/Header";
 import SidePanel from "./Components/SidePanel/SidePanel";
+import View from "./Components/View/View";
 
 import WebMap from "@arcgis/core/WebMap";
 import MapView from "@arcgis/core/views/MapView";
-
-import { useEffect, useState } from "react";
 
 import "./App.scss";
 

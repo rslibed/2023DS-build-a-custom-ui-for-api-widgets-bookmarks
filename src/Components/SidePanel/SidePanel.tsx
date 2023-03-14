@@ -1,9 +1,9 @@
+import MapView from "@arcgis/core/views/MapView";
+import SceneView from "@arcgis/core/views/SceneView";
+
 import Bookmarks from "../Bookmarks/Bookmarks";
 
 import "./SidePanel.scss";
-
-import MapView from "@arcgis/core/views/MapView";
-import SceneView from "@arcgis/core/views/SceneView";
 
 interface SidePanelProps {
   view: MapView | SceneView;

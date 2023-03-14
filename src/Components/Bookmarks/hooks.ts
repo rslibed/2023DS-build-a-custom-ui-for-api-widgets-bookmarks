@@ -1,6 +1,8 @@
+import { useEffect, useState } from "react";
+
 import Handles from "@arcgis/core/core/Handles";
 import BookmarksViewModel from "@arcgis/core/widgets/Bookmarks/BookmarksViewModel";
-import { useEffect, useState } from "react";
+
 import { addBookmarksHandlers } from "./utilities";
 
 export function useBookmarksViewModel(props: __esri.BookmarksViewModelProperties) {
