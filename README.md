@@ -17,4 +17,6 @@ Presenters: Jonathan Uihlein, Tristan Morrison, Ryan Libed, Esri
 3. `yarn install`
 4. `yarn start`
 
+Note: yarn and git is required run the above commands. 
+
 Browser will automatically open at `http://localhost:3000`.
